@@ -1,3 +1,4 @@
 # exercise
 just some demo
-first time coding in github
+
+I wanna learn how to use github
